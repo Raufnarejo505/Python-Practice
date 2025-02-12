@@ -1,0 +1,1 @@
+this is the python test file for weorrking with open() function and understanding python built in functions to work with text files.
